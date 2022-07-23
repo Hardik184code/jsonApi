@@ -1,0 +1,495 @@
+[
+	{
+		"id" : 1,
+		"name" : "Vikas Patil",
+		"username" :  {
+				"u_first" : "Vikas",
+				"u_second" : "Patil"
+			        },
+		"email" : {
+				"e_first" : "vikas6767@gmail.com",
+				"e_second" : "vik45@gmail.com",
+				"e_third": "patill@gmail.com"
+		                   },
+		"address" : {
+				"street" : "Kulas Light",
+				"suite" : "Apt.556",
+				"city" : "Surat",
+				"pincode" : "395004",
+				"area" : "Katargam",
+				"geo" : {
+					"lat" : "-37.125",
+					"lng" : "81.2587"
+				               }
+			  },
+		"phone" : {
+				"phone no" : {
+						"p_one" : "9874565865",
+						"p_two" : "8855497652"
+				                   },
+				"mobile no"  : "7985465213",				                  
+				"company no" :  "982-3259-36"
+			},
+		"website" : {
+				"w_one" : "flipcart.net",
+				"w_two" : "amazon.in"
+			   },
+		"company" : {
+				"c_name" : "Micro Soft Ltd",
+				"c_address" : {
+						"city" : "Surat",
+						"state" : "Gujarat",
+						"country" : "India"
+					  }
+			     },
+		"images" : {
+				"i_first" : "https://images.unsplash.com/photo-1658238124313-d69e9f20949b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
+				"i_second" : "https://images.unsplash.com/photo-1658250585128-10ce39a7d198?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=400&q=60",
+				"i_third" : "https://images.unsplash.com/photo-1658222075223-c24006eb133a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxNXx8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60"
+			 }
+	},
+	{
+		"id" : 2,
+		"name" : "Aditya Chopra",
+		"username" :  {
+				"u_first" : "Aditya",
+				"u_second" : "Chopra"
+			        },
+		"email" : {
+				"e_first" : "adi009@gmail.com",
+				"e_second" : "aditya45@gmail.com",
+				"e_third": "chopra3@gmail.com"
+		                   },
+		"address" : {
+				"street" : "Victor Plains",
+				"suite" : "Suite 879",
+				"city" : "Banglor",
+				"pincode" : "398802",
+				"area" : "Hira Bag",
+				"geo" : {
+					"lat" : "-43.9509",
+					"lng" : "-34.4618"
+				               }
+			  },
+		"phone" : {
+				"phone no" : {
+						"p_one" : "7858242412",
+						"p_two" : "6358922132"
+				                   },
+				"mobile no"  : "9124521028",				                  
+				"company no" :  "896-5451-714"
+			},
+		"website" : {
+				"w_one" : "messo.in",
+				"w_two" : "phonepay.org"
+			   },
+		"company" : {
+				"c_name" : "Google Pvt Ltd",
+				"c_address" : {
+						"city" : "Banglor",
+						"state" : "Banglor",
+						"country" : "India"
+					  }
+			     },
+		"images" : {
+				"i_first" : "https://images.unsplash.com/photo-1657979411054-6c619224e281?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8QkpKTXR0ZURKQTR8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_second" : "https://images.unsplash.com/photo-1656866990923-2da759a0db41?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fEJKSk10dGVESkE0fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+				"i_third" : "https://images.unsplash.com/photo-1656339115824-735048508b10?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM1fEJKSk10dGVESkE0fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+			 }
+	},
+	{
+		"id" : 3,
+		"name" : "Vikram Patel",
+		"username" :  {
+				"u_first" : "Vikram",
+				"u_second" : "Patel"
+			        },
+		"email" : {
+				"e_first" : "v9090@gmail.com",
+				"e_second" : "vram67@gmail.com",
+				"e_third": "patel7777@gmail.com"
+		                   },
+		"address" : {
+				"street" : "Douglas Extension",
+				"suite" : "Suite 847",
+				"city" : "Mumbai",
+				"pincode" : "384101",
+				"area" : "Gate Way of India",
+				"geo" : {
+					"lat" : "-68.6102",
+					"lng" : "-47.0653"
+				               }
+			  },
+		"phone" : {
+				"phone no" : {
+						"p_one" : "8523697412",
+						"p_two" : "6685312415"
+				                   },
+				"mobile no"  : "7788942872",				                  
+				"company no" :  "2353-455424"
+			},
+		"website" : {
+				"w_one" : "rupeey.com",
+				"w_two" : "angleone.com"
+			   },
+		"company" : {
+				"c_name" : "Tata Industry Ltd",
+				"c_address" : {
+						"city" : "Mumbai",
+						"state" : "Maharastra",
+						"country" : "India"
+					  }
+			     },
+		"images" : {
+				"i_first" : "https://images.unsplash.com/photo-1657980295322-af0e88b61832?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8cVBZc0R6dkpPWWN8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_second" : "https://images.unsplash.com/photo-1649840974220-9d8494c4a90b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fHFQWXNEenZKT1ljfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+				"i_third" : "https://images.unsplash.com/photo-1656013539432-91fd1214dc63?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDM0fHFQWXNEenZKT1ljfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+			 }
+	},
+	{
+		"id" : 4,
+		"name" : "Sachin Gupta",
+		"username" :  {
+				"u_first" : "Sachin",
+				"u_second" : "Gupta"
+			        },
+		"email" : {
+				"e_first" : "guptaaa@gmail.com",
+				"e_second" : "sachin71@gmail.com",
+				"e_third": "sgupta009@gmail.com"
+		                   },
+		"address" : {
+				"street" : "Hoeger Mall",
+				"suite" : "Apt. 692",
+				"city" : "Karnatak",
+				"pincode" : "397008",
+				"area" : "Diamond Market",
+				"geo" : {
+					"lat" : "29.4572",
+					"lng" : "-164.2990"
+				               }
+			  },
+		"phone" : {
+				"phone no" : {
+						"p_one" : "8898542462",
+						"p_two" : "7571800356"
+				                   },
+				"mobile no"  : "6682145312",				                  
+				"company no" :  "352-58232-24"
+			},
+		"website" : {
+				"w_one" : "redmimobiles.com",
+				"w_two" : "oppomobiles.in"
+			   },
+		"company" : {
+				"c_name" : "Oppo Mobile Pvt Ltd",
+				"c_address" : {
+						"city" : "Karnatak",
+						"state" : "Tamilnadu",
+						"country" : "India"
+					  }
+			     },
+		"images" : {
+				"i_first" : "https://images.unsplash.com/photo-1658066756509-0a89120773b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8cm5TS0RId3dZVWt8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_second" : "https://images.unsplash.com/photo-1657753266704-28e76fae2839?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE1fHJuU0tESHd3WVVrfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+				"i_third" : "https://images.unsplash.com/photo-1656403080295-8455e72083d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDMxfHJuU0tESHd3WVVrfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+			 }
+	},
+	{
+		"id" : 5,
+		"name" : "Mohan Kapoor",
+		"username" :  {
+				"u_first" : "Mohan",
+				"u_second" : "Kapoor"
+			        },
+		"email" : {
+				"e_first" : "mohank998@gmail.com",
+				"e_second" : "kapoor444@gmail.com",
+				"e_third": "mk000@gmail.com"
+		                   },
+		"address" : {
+				"street" : "Skiles Walks",
+				"suite" : "Suite 351",
+				"city" : "Manipuram",
+				"pincode" : "387305",
+				"area" : "Chikuvadi",
+				"geo" : {
+					"lat" : "-31.8129",
+					"lng" : "62.5342"
+				               }
+			  },
+		"phone" : {
+				"phone no" : {
+						"p_one" : "8799824525",
+						"p_two" : "6248234852"
+				                   },
+				"mobile no"  : "9997423412",				                  
+				"company no" :  "9856-7134-24"
+			},
+		"website" : {
+				"w_one" : "addidas.com",
+				"w_two" : "puma.com"
+			   },
+		"company" : {
+				"c_name" : "C Official",
+				"c_address" : {
+						"city" : "Manipuram",
+						"state" : "Haidrabad",
+						"country" : "India"
+					  }
+			     },
+		"images" : {
+				"i_first" : "https://images.unsplash.com/photo-1657822352537-bed6385fca1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDV8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_second" : "https://images.unsplash.com/photo-1657904433191-02608d17b567?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8NnNNVmpUTFNrZVF8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_third" : "https://images.unsplash.com/photo-1657926989832-eb9677f3fb20?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEwfDZzTVZqVExTa2VRfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+			 }
+	},
+	{
+		"id" : 6,
+		"name" : "Punit Pathak",
+		"username" :  {
+				"u_first" : "Punit",
+				"u_second" : "Pathak"
+			        },
+		"email" : {
+				"e_first" : "pp102@gmail.com",
+				"e_second" : "ppathak99@gmail.com",
+				"e_third": "punitp2121@gmail.com"
+		                   },
+		"address" : {
+				"street" : "Norberto Crossing",
+				"suite" : "Apt. 950",
+				"city" : "Ahemdabad",
+				"pincode" : "394007",
+				"area" : "Andheri Colony",
+				"geo" : {
+					"lat" : "-71.4197",
+					"lng" : "71.7478"
+				               }
+			  },
+		"phone" : {
+				"phone no" : {
+						"p_one" : "8887123122",
+						"p_two" : "9513188313"
+				                   },
+				"mobile no"  : "9632148741",				                  
+				"company no" :  "357-5464-3214"
+			},
+		"website" : {
+				"w_one" : "yono.in",
+				"w_two" : "kotakbank.com"
+			   },
+		"company" : {
+				"c_name" : "SBI ltd",
+				"c_address" : {
+						"city" : "Kerala",
+						"state" : "Keral",
+						"country" : "India"
+					  }
+			     },
+		"images" : {
+				"i_first" : "https://images.unsplash.com/photo-1657367098170-6d7f57a88667?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8YWV1NnJMLWo2ZXd8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_second" : "https://images.unsplash.com/photo-1657040358577-58ceaf1c3d37?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDI2fGFldTZyTC1qNmV3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+				"i_third" : "https://images.unsplash.com/photo-1656302785513-4bd4540c0866?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDQ0fGFldTZyTC1qNmV3fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+			 }
+	},
+	{
+		"id" : 7,
+		"name" : "Darshan Raval",
+		"username" :  {
+				"u_first" : "Darshan",
+				"u_second" : "Raval"
+			        },
+		"email" : {
+				"e_first" : "darshan43@gmail.com",
+				"e_second" : "draval@gmail.com",
+				"e_third": "raval999@gmail.com"
+		                   },
+		"address" : {
+				"street" : "Rex Trail",
+				"suite" : "Suite 280",
+				"city" : "Patna",
+				"pincode" : "340058",
+				"area" : "Chopati",
+				"geo" : {
+					"lat" : "24.8918",
+					"lng" : "21.8984"
+				               }
+			  },
+		"phone" : {
+				"phone no" : {
+						"p_one" : "6813735468",
+						"p_two" : "9872725432"
+				                   },
+				"mobile no"  : "8754669613",				                  
+				"company no" :  "2232-324-3321"
+			},
+		"website" : {
+				"w_one" : "kotakmahindra.com",
+				"w_two" : "axis.com"
+			   },
+		"company" : {
+				"c_name" : "Private Bank ltd",
+				"c_address" : {
+						"city" : "Patna",
+						"state" : "Bihar",
+						"country" : "India"
+					  }
+			     },
+		"images" : {
+				"i_first" : "https://images.unsplash.com/photo-1654584240523-6b8d3f6c33b4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8X2hiLWRsNFEtNFV8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_second" : "https://images.unsplash.com/photo-1575177990047-1a6a4d211486?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDN8X2hiLWRsNFEtNFV8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_third" : "https://images.unsplash.com/photo-1655890938539-7257cdd5ea34?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEwfF9oYi1kbDRRLTRVfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+			 }
+	},
+	{
+		"id" : 8,
+		"name" : "Dharmesh Yadav",
+		"username" :  {
+				"u_first" : "Dharmesh",
+				"u_second" : "Yadav"
+			        },
+		"email" : {
+				"e_first" : "dyadav512@gmail.com",
+				"e_second" : "yadav@gmail.com",
+				"e_third": "dharmesh444@gmail.com"
+		                   },
+		"address" : {
+				"street" : "Ellsworth Summit",
+				"suite" : "Suite 729",
+				"city" : "Panaji",
+				"pincode" : "382251",
+				"area" : "Green Garden",
+				"geo" : {
+					"lat" : "-14.3990",
+					"lng" : "-120.7677"
+				               }
+			  },
+		"phone" : {
+				"phone no" : {
+						"p_one" : "6335402455",
+						"p_two" : "5250535065"
+				                   },
+				"mobile no"  : "9211300164",				                  
+				"company no" :  "3268-6853-33"
+			},
+		"website" : {
+				"w_one" : "flutter.com",
+				"w_two" : "python.com"
+			   },
+		"company" : {
+				"c_name" : "IT Language Official",
+				"c_address" : {
+						"city" : "Panaji",
+						"state" : "Goa",
+						"country" : "India"
+					  }
+			     },
+		"images" : {
+				"i_first" : "https://images.unsplash.com/photo-1657739879940-48541b47ca3a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8dG93SlpGc2twR2d8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_second" : "https://images.unsplash.com/photo-1658308608296-9cdd405a7fce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDR8dG93SlpGc2twR2d8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_third" : "https://images.unsplash.com/photo-1658188920000-854ce73e2440?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE0fHRvd0paRnNrcEdnfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+			 }
+	},
+	{
+		"id" : 9,
+		"name" : "Mahesh Mangukiya",
+		"username" :  {
+				"u_first" : "Mahesh",
+				"u_second" : "Mangukiya"
+			        },
+		"email" : {
+				"e_first" : "mmofficial@gmail.com",
+				"e_second" : "mangukiya202@gmail.com",
+				"e_third": "mmahesh66@gmail.com"
+		                   },
+		"address" : {
+				"street" : "Dayna Park",
+				"suite" : "Suite 449",
+				"city" : "Shimla",
+				"pincode" : "358202",
+				"area" : "Monsoon heels",
+				"geo" : {
+					"lat" : "24.6463",
+					"lng" : "-168.8889"
+				               }
+			  },
+		"phone" : {
+				"phone no" : {
+						"p_one" : "9851238002",
+						"p_two" : "8040337410"
+				                   },
+				"mobile no"  : "8013360214",				                  
+				"company no" :  "222-5555-3232"
+			},
+		"website" : {
+				"w_one" : "linkedin.com",
+				"w_two" : "github.com"
+			   },
+		"company" : {
+				"c_name" : "Shimla National Institute of IT",
+				"c_address" : {
+						"city" : "Shimla",
+						"state" : "Himachal Pradesh",
+						"country" : "India"
+					  }
+			     },
+		"images" : {
+				"i_first" : "https://images.unsplash.com/photo-1658299197250-7b88524ce2d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDZ8eEh4WVRNSExnT2N8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_second" : "https://images.unsplash.com/photo-1658307477957-cbf382737efe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEyfHhIeFlUTUhMZ09jfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+				"i_third" : "https://images.unsplash.com/photo-1658253534457-9e99ce5c3acb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDEzfHhIeFlUTUhMZ09jfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+			 }
+	},
+	{
+		"id" : 10,
+		"name" : "Kartik Thakor",
+		"username" :  {
+				"u_first" : "Kartik",
+				"u_second" : "Thakor"
+			        },
+		"email" : {
+				"e_first" : "kthakor@gmail.com",
+				"e_second" : "thakor@gmail.com",
+				"e_third": "kartik998@gmail.com"
+		                   },
+		"address" : {
+				"street" : "Kattie Turnpike",
+				"suite" : "Suite 198",
+				"city" : "Indore",
+				"pincode" : "388772",
+				"area" : "National Stadium",
+				"geo" : {
+					"lat" : "-38.2386",
+					"lng" : "57.2232"
+				               }
+			  },
+		"phone" : {
+				"phone no" : {
+						"p_one" : "7845678002",
+						"p_two" : "9834365139"
+				                   },
+				"mobile no"  : "8000050235",				                  
+				"company no" :  "1111-2222-333"
+			},
+		"website" : {
+				"w_one" : "bookmyshow.in",
+				"w_two" : "onlinebooking.com"
+			   },
+		"company" : {
+				"c_name" : "Cinema Booking pvt ltd",
+				"c_address" : {
+						"city" : "Indore",
+						"state" : "Madhya Pradesh",
+						"country" : "India"
+					  }
+			     },
+		"images" : {
+				"i_first" : "https://images.unsplash.com/photo-1658289929355-e87b9c4e9c47?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDh8SnBnNktpZGwtSGt8fGVufDB8fHx8&auto=format&fit=crop&w=400&q=60",
+				"i_second" : "https://images.unsplash.com/photo-1658197556695-4cc9ce4fb3aa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE3fEpwZzZLaWRsLUhrfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+				"i_third" : "https://images.unsplash.com/photo-1658197567564-bba88dce845f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE4fEpwZzZLaWRsLUhrfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60"
+			 }
+	}
+]
+
+
+ 	
